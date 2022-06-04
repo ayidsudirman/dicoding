@@ -5,5 +5,7 @@ This step contain two lessons:
 1. Make a profile page of city, and
 2. What's next?
 
-
+### Screen shot
+1. Make a profile page of city
+![Bandung profile page](./preview.png)
 
