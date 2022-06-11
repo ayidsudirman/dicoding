@@ -2,7 +2,7 @@
 
 First Step to become Front-End Web Developer: Belajar Dasar Pemrograman Web (55 hours).
 This step contain two lessons:
-1. Make a profile page of city [source](https://github.com/ayidsudirman/dicoding/tree/1.1-profil-page), and
+1. Make a profile page of city [[source](https://github.com/ayidsudirman/dicoding/tree/1.1-profil-page)], and
 2. Web Calculator
 
 ### Screen shot
