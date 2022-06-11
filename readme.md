@@ -1,9 +1,10 @@
   # Learning to code with [IDCamp](https://idcamp.ioh.co.id/) x [Dicoding](https://www.dicoding.com/learningpaths/22)
-Four Step to become Front-End Web Developer: 
-1. Belajar Dasar Pemrograman Web (55 hours)
-2. Belajar Membuat Front-End Web untuk Pemula (46 hours)
-3. Belajar Fundamental Front-End Web Development (70 hours)
-4. Menjadi Front-End Web Developer Expert (90 hours)
 
-Note: Every topic have its own branch. 
+First Step to become Front-End Web Developer: Belajar Dasar Pemrograman Web (55 hours).
+This step contain two lessons:
+1. Make a profile page of city [source](https://github.com/ayidsudirman/dicoding/tree/1.1-profil-page), and
+2. Web Calculator
 
+### Screen shot
+2. Make a web calculator with session storage history
+![web calculator](./preview.png)
